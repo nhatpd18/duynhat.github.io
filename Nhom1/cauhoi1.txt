@@ -1,0 +1,6 @@
+1. 1+1 : 2
+2. Thu do Viet Nam? : Ha Noi
+3. Thu do Trung Quoc? : Bac Kinh
+4. Thu do Phap? : Paris
+5. Thu do Y? : Rome
+6. Thu do My? : New York
